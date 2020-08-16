@@ -12,7 +12,7 @@ author: Mandy Chan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "contact"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
@@ -42,7 +42,7 @@ social-network-links:
   # facebook: deanattali
   github: manduchan
   # twitter: daattali
-  rss: true
+  rss: false
 #  reddit: yourname
  linkedin: mandy-chan
 #  xing: yourname
