@@ -42,7 +42,7 @@ social-network-links:
   # facebook: deanattali
   github: "https://github.com/manduchan"
   # twitter: daattali
-  # rss: false
+  rss: false
 #  reddit: yourname
  linkedin: "https://www.linkedin.com/in/mandy-chan/"
 #  xing: yourname
@@ -214,7 +214,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - screenshot.png
+  # - screenshot.png
   - docs/
 
 plugins:
