@@ -12,7 +12,7 @@ author: Mandy Chan
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "contact"
+  Contact Me: "contact"
 
 
 # --- Logo --- #
@@ -36,9 +36,9 @@ navbar-links:
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "mandychan.nyc@gmail.com"
-  github: "https://github.com/manduchan"
+  github: manduchan
   rss: false
-  linkedin: "https://www.linkedin.com/in/mandy-chan/"
+  linkedin: mandy-chan
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -75,7 +75,7 @@ link-tags: true
 excerpt_length: 50
 
 # The keywords to associate with your website, for SEO purposes
-keywords: "mandy,chan,mandychan, mandy chan"
+keywords: "mandy,chan,mandychan,mandy chan"
 
 # --- Colours / background image --- #
 
@@ -208,7 +208,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  # - screenshot.png
+  - screenshot.png
   - docs/
 
 plugins:
